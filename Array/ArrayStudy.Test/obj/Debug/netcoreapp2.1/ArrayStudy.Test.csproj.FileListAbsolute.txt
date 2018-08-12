@@ -1,0 +1,17 @@
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/ArrayStudy.Test.deps.json
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/ArrayStudy.Test.runtimeconfig.json
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/ArrayStudy.Test.runtimeconfig.dev.json
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/ArrayStudy.Test.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/ArrayStudy.Test.pdb
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/ArrayStudy.Domain.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/bin/Debug/netcoreapp2.1/ArrayStudy.Domain.pdb
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/obj/Debug/netcoreapp2.1/ArrayStudy.Test.csprojAssemblyReference.cache
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/obj/Debug/netcoreapp2.1/ArrayStudy.Test.csproj.CoreCompileInputs.cache
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/obj/Debug/netcoreapp2.1/ArrayStudy.Test.AssemblyInfoInputs.cache
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/obj/Debug/netcoreapp2.1/ArrayStudy.Test.AssemblyInfo.cs
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/obj/Debug/netcoreapp2.1/ArrayStudy.Test.csproj.CopyComplete
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/obj/Debug/netcoreapp2.1/ArrayStudy.Test.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Test/obj/Debug/netcoreapp2.1/ArrayStudy.Test.pdb

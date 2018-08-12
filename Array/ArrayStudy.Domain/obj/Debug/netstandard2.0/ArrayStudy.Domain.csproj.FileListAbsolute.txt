@@ -1,0 +1,9 @@
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/bin/Debug/netstandard2.0/ArrayStudy.Domain.deps.json
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/bin/Debug/netstandard2.0/ArrayStudy.Domain.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/bin/Debug/netstandard2.0/ArrayStudy.Domain.pdb
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/obj/Debug/netstandard2.0/ArrayStudy.Domain.csprojAssemblyReference.cache
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/obj/Debug/netstandard2.0/ArrayStudy.Domain.csproj.CoreCompileInputs.cache
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/obj/Debug/netstandard2.0/ArrayStudy.Domain.AssemblyInfoInputs.cache
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/obj/Debug/netstandard2.0/ArrayStudy.Domain.AssemblyInfo.cs
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/obj/Debug/netstandard2.0/ArrayStudy.Domain.dll
+/Users/firewind/Documents/Code/Array/ArrayStudy.Domain/obj/Debug/netstandard2.0/ArrayStudy.Domain.pdb

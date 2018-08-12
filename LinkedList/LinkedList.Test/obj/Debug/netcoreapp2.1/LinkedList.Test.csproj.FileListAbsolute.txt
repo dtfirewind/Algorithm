@@ -1,0 +1,17 @@
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/LinkedList.Test.deps.json
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/LinkedList.Test.runtimeconfig.json
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/LinkedList.Test.runtimeconfig.dev.json
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/LinkedList.Test.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/LinkedList.Test.pdb
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/LinkedList.Domain.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/bin/Debug/netcoreapp2.1/LinkedList.Domain.pdb
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/obj/Debug/netcoreapp2.1/LinkedList.Test.csprojAssemblyReference.cache
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/obj/Debug/netcoreapp2.1/LinkedList.Test.csproj.CoreCompileInputs.cache
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/obj/Debug/netcoreapp2.1/LinkedList.Test.AssemblyInfoInputs.cache
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/obj/Debug/netcoreapp2.1/LinkedList.Test.AssemblyInfo.cs
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/obj/Debug/netcoreapp2.1/LinkedList.Test.csproj.CopyComplete
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/obj/Debug/netcoreapp2.1/LinkedList.Test.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Test/obj/Debug/netcoreapp2.1/LinkedList.Test.pdb

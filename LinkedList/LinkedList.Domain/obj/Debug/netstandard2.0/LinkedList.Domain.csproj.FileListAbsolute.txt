@@ -1,0 +1,9 @@
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/bin/Debug/netstandard2.0/LinkedList.Domain.deps.json
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/bin/Debug/netstandard2.0/LinkedList.Domain.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/bin/Debug/netstandard2.0/LinkedList.Domain.pdb
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/obj/Debug/netstandard2.0/LinkedList.Domain.csprojAssemblyReference.cache
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/obj/Debug/netstandard2.0/LinkedList.Domain.csproj.CoreCompileInputs.cache
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/obj/Debug/netstandard2.0/LinkedList.Domain.AssemblyInfoInputs.cache
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/obj/Debug/netstandard2.0/LinkedList.Domain.AssemblyInfo.cs
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/obj/Debug/netstandard2.0/LinkedList.Domain.dll
+/Users/firewind/Documents/Code/LinkedList/LinkedList.Domain/obj/Debug/netstandard2.0/LinkedList.Domain.pdb
