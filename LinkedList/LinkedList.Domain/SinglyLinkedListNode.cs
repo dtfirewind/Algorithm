@@ -10,6 +10,11 @@ namespace LinkedList.Domain
             this.data = data;
         }
 
+        public SinglyLinkedListNode()
+        {
+            
+        }
+
         public void AppendToTail(int data)
         {
             SinglyLinkedListNode node = new SinglyLinkedListNode(data);
