@@ -21,10 +21,15 @@ namespace LinkedList.Test
         //When
             classDMN.TryDeletingMiddleNode(node.GetFirstNode(node,3));
         //Then
-            Assert.Equal(null,node.GetFirstNode(node,3));
+            Assert.True(AreSame(null,node.GetFirstNode(node,3)));
         //When
         
         //Then
+        }
+
+        private static bool AreSame(SinglyLinkedListNode node1, SinglyLinkedListNode node2)
+        {
+            return node1 == node2;
         }
     }
 }
