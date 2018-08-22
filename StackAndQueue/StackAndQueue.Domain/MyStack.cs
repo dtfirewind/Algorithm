@@ -17,11 +17,14 @@ namespace StackAndQueue.Domain
 
         private StackNode top;
 
+        public int size;
+
         public T Pop()
         {
             if(top == null) throw new InvalidOperationException();
             T item = top.data;
             top = top.next;
+            size--;
             return item;
         }
 
@@ -30,6 +33,7 @@ namespace StackAndQueue.Domain
             StackNode t = new StackNode(item);
             t.next = top;
             top = t;
+            size++;
         }
 
         public T Peek()
