@@ -10,6 +10,7 @@ namespace StackAndQueue.Domain
         {
             stackNew = new MyStack<T>();
             stackOld = new MyStack<T>();
+            
         }
 
         public int Size()

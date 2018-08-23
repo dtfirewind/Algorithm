@@ -9,7 +9,7 @@ namespace StackAndQueue.Domain
         public StackMin(){
             s2 = new MyStack<int>();
         }
-        public void Push(int value)
+        public new void Push(int value)
         {
             if (value <= Min())
             {
@@ -18,7 +18,7 @@ namespace StackAndQueue.Domain
             base.Push(value);
         }
 
-        public int Pop()
+        public new int Pop()
         {
             int value = base.Pop();
             if(value == Min())
