@@ -1,0 +1,9 @@
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/bin/Debug/netstandard2.0/TreeAndGraph.Domain.deps.json
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/bin/Debug/netstandard2.0/TreeAndGraph.Domain.dll
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/bin/Debug/netstandard2.0/TreeAndGraph.Domain.pdb
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/obj/Debug/netstandard2.0/TreeAndGraph.Domain.csprojAssemblyReference.cache
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/obj/Debug/netstandard2.0/TreeAndGraph.Domain.csproj.CoreCompileInputs.cache
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/obj/Debug/netstandard2.0/TreeAndGraph.Domain.AssemblyInfoInputs.cache
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/obj/Debug/netstandard2.0/TreeAndGraph.Domain.AssemblyInfo.cs
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/obj/Debug/netstandard2.0/TreeAndGraph.Domain.dll
+/Users/firewind/Documents/Code/TreeAndGraph/TreeAndGraph.Domain/obj/Debug/netstandard2.0/TreeAndGraph.Domain.pdb
