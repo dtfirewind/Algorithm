@@ -5,6 +5,7 @@ namespace TreeAndGraph.Domain
         public int value;
         public TreeNode<T> left;
         public TreeNode<T> right;
+        public TreeNode<T> parent;
         public TreeNode()
         {
 
