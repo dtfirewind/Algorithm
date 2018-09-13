@@ -1,0 +1,17 @@
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/obj/Debug/netcoreapp2.1/BitManipulation.Test.csprojAssemblyReference.cache
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/obj/Debug/netcoreapp2.1/BitManipulation.Test.csproj.CoreCompileInputs.cache
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/obj/Debug/netcoreapp2.1/BitManipulation.Test.AssemblyInfoInputs.cache
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/obj/Debug/netcoreapp2.1/BitManipulation.Test.AssemblyInfo.cs
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/BitManipulation.Test.deps.json
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/BitManipulation.Test.runtimeconfig.json
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/BitManipulation.Test.runtimeconfig.dev.json
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/BitManipulation.Test.dll
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/BitManipulation.Test.pdb
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/BitManipulation.Domain.dll
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/bin/Debug/netcoreapp2.1/BitManipulation.Domain.pdb
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/obj/Debug/netcoreapp2.1/BitManipulation.Test.csproj.CopyComplete
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/obj/Debug/netcoreapp2.1/BitManipulation.Test.dll
+/Users/firewind/Documents/Code/BitManipulation/BitManipulation.Test/obj/Debug/netcoreapp2.1/BitManipulation.Test.pdb
